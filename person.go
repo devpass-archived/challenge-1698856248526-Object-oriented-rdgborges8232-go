@@ -5,7 +5,10 @@ import (
 )
 
 // Person struct
- type Person struct {// Add your solution here!}
+ type Person struct {
+	Name string
+	Age  int	 
+ }
 
 // Greet method
 func (p Person) Greet() {
