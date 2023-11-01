@@ -1,0 +1,2 @@
+## Object-Oriented Programming Challenge
+In this challenge, we're exploring object-oriented programming (OOP) in Go. Your task is to create a `Person` struct with `Name` and `Age` fields. Then, write a method called `Greet` that prints a greeting message including the person's name. Finally, in the `main` function, create an instance of the `Person` struct and call the `Greet` method.
